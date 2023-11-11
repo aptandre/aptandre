@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<p align="center" style="font-family:Roboto;">Sou André Alves, um aluno do curso de Ciência da Comutação da Universidade Federal de Campina Grande (UFCG) e atualmente estou cursando o meu sétimo período. Me interesso bastante pela área de desenvolvimento de software, desenvolvimento de jogos e quaisquer discussões acerca de tecnologia! <ins>Caso queira me contactar</ins>,
+<p align="justify" style="font-family:Roboto;">Sou André Alves, um aluno do curso de Ciência da Comutação da Universidade Federal de Campina Grande (UFCG) e atualmente estou cursando o meu sétimo período. Me interesso bastante pela área de desenvolvimento de software, desenvolvimento de jogos e quaisquer discussões acerca de tecnologia! <ins>Caso queira me contactar</ins>,
 você pode me encontrar através dos seguintes canais:<br></br></p>
 
 
@@ -51,7 +51,7 @@ Tenho interesse pelos seguintes tópicos:
 - Processamento de Linguagem Natural;
 - Machine Learning.</li>
 
-<p style="font-family:Roboto">No mais, estou sempre disposto a explorar novas áreas as quais não tenho muito conhecimento sobre! Também tenho muito interesse em discutir sobre Inteligência Artifical, Modelos de Linguagem de Grande Escala, IA Generativa, Interface Homem-Máquina entre outros tópicos da área, manda uma mensagem, vamos bater um papo!</p> ;-)
+<p align="justify" style="font-family:Roboto">No mais, estou sempre disposto a explorar novas áreas as quais não tenho muito conhecimento sobre! Também tenho muito interesse em discutir sobre Inteligência Artifical, Modelos de Linguagem de Grande Escala, IA Generativa, Interface Homem-Máquina entre outros tópicos da área, manda uma mensagem, vamos bater um papo!  ;-)</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptandre&hide_progress=true)
 ---
