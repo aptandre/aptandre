@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<p align="justify" style="font-family:Roboto;">Sou André Alves, um aluno do curso de Ciência da Comutação da Universidade Federal de Campina Grande (UFCG) e atualmente estou cursando o meu sétimo período. Me interesso bastante pela área de desenvolvimento de software, desenvolvimento de jogos e quaisquer discussões acerca de tecnologia! <ins>Caso queira me contactar</ins>,
+<p align="justify" style="font-family:Roboto;">Sou André Alves, um aluno do curso de Ciência da Comutação da Universidade Federal de Campina Grande (UFCG) e atualmente estou cursando o meu sétimo período. Me interesso bastante pela área de engenharia de software, com ênfase em otimização de algoritmos e aplicação de padrões de projeto, mas também sou apaixonado por desenvolvimento de jogos! Sou bastante aberto a explorar novos campos com os quais ainda não tive contato e já atuei nas mais diversas sub-áreas da tecnologia, sempre disposto a ter novas experiências! <ins>Caso queira me contactar</ins>,
 você pode me encontrar através dos seguintes canais:<br></br></p>
 
 
