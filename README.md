@@ -10,37 +10,6 @@ você pode me encontrar através dos seguintes canais:<br></br></p>
 
 ![My Skills](https://skillicons.dev/icons?i=py,typescript,dart,java,haskell)
 
-## Áreas de atuação
-
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
----
-
-- Desenvolvimento de Rest APIs (**Flask**);
-- Desenvolvimento de jogos (**Pygame**);
-- Criação e integração de Scrapers com **Selenium** ;
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
----
-- Desenvolvimento e integração de uma aplicação web com angular;
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
----
-- Desenvolvimento e integração de aplicações web com React.js;
-- Desenvolvimento de aplicação web utilizando o padrão de design **Material UI**.
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
----
-- Desenvolvimento de aplicações **Android/iOS** com flutter.
-
-[![Springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
----
-- Desenvolvimento de APIs Rest em **Springboot**;
-
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
------
-
-<li style="font-family:Roboto">Criação de um jogo em paradigma funcional (haskell) e lógico (prolog);
-
 ## Áreas de interesse
 
 Tenho interesse pelos seguintes tópicos:
@@ -48,10 +17,7 @@ Tenho interesse pelos seguintes tópicos:
 - Aplicação de padrões de projeto;
 - Técnicas de otimização de algoritmos;
 - Desenvolvimento de jogos;
-- Processamento de Linguagem Natural;
-- Machine Learning.</li>
 
-<p align="justify" style="font-family:Roboto">No mais, estou sempre disposto a explorar novas áreas as quais não tenho muito conhecimento sobre! Também tenho muito interesse em discutir sobre Inteligência Artifical, Modelos de Linguagem de Grande Escala, IA Generativa, Interface Homem-Máquina entre outros tópicos da área, manda uma mensagem, vamos bater um papo!  ;-)</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptandre&hide_progress=true)
 ---
